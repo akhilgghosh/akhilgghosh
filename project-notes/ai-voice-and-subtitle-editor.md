@@ -4,13 +4,7 @@ A browser-based narration tool that combines AI voice generation with waveform p
 
 ## Workflow
 
-```mermaid
-flowchart LR
-    A[Script and voice selection] --> B[Gemini audio generation]
-    B --> C[Waveform and subtitle timeline]
-    C --> D[Edit timing and text]
-    D --> E[WAV and SRT export]
-```
+![Voice workflow: script and voice, Gemini generation, waveform and subtitles, editing, WAV and SRT export](../assets/voice-subtitle-workflow.svg)
 
 ## Capabilities
 

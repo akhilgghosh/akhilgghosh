@@ -4,12 +4,7 @@ A work-management application combining a web interface, a PostgreSQL data layer
 
 ## System overview
 
-```mermaid
-flowchart LR
-    A[Rust desktop agent] <--> B[ASP.NET Core endpoints]
-    B <--> C[PostgreSQL]
-    D[Blazor web interface] <--> B
-```
+![Architecture connecting a Rust agent and Blazor interface to ASP.NET Core and PostgreSQL](../assets/platform-architecture.svg)
 
 ## Components
 

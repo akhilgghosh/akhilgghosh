@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+<title id="title">CAD drawing workflow</title><desc id="desc">CAD model → Drawing views → Scale and layout → Dimensions and annotations → PDF export</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8 Z" fill="#8b949e"/></marker></defs>
+<rect width="1200" height="240" rx="16" fill="#0d1117"/>
+<text x="26" y="37" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">CAD drawing workflow</text>
+<text x="26" y="65" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="16">From a CAD model to drawing preparation and export.</text>
+<rect x="26" y="96" width="204" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="26" y="96" width="204" height="4" rx="2" fill="#e3a332"/>
+<text x="40" y="123" fill="#e3a332" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">01</text>
+<text x="128" y="167" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">CAD model</text>
+<path d="M235 152 H254" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="262" y="96" width="204" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="262" y="96" width="204" height="4" rx="2" fill="#e3a332"/>
+<text x="276" y="123" fill="#e3a332" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">02</text>
+<text x="364" y="155" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">Drawing</text>
+<text x="364" y="179" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">views</text>
+<path d="M471 152 H490" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="498" y="96" width="204" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="498" y="96" width="204" height="4" rx="2" fill="#e3a332"/>
+<text x="512" y="123" fill="#e3a332" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">03</text>
+<text x="600" y="155" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">Scale</text>
+<text x="600" y="179" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">and layout</text>
+<path d="M707 152 H726" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="734" y="96" width="204" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="734" y="96" width="204" height="4" rx="2" fill="#e3a332"/>
+<text x="748" y="123" fill="#e3a332" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">04</text>
+<text x="836" y="155" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">Dimensions</text>
+<text x="836" y="179" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">and annotations</text>
+<path d="M943 152 H962" stroke="#8b949e" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="970" y="96" width="204" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
+<rect x="970" y="96" width="204" height="4" rx="2" fill="#e3a332"/>
+<text x="984" y="123" fill="#e3a332" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600">05</text>
+<text x="1072" y="167" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="500">PDF export</text>
+
+</svg>

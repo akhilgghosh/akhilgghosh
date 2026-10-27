@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Web platform and desktop agent architecture</title><desc id="desc">A Rust desktop agent and a Blazor web interface connect to ASP.NET Core endpoints backed by PostgreSQL.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto-start-reverse"><path d="M0 0 L8 4 L0 8 Z" fill="#8b949e"/></marker></defs>
+<rect width="1200" height="320" rx="16" fill="#0d1117"/>
+<text x="26" y="37" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="600">Web platform &amp; desktop agent</text>
+<text x="26" y="65" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="16">Desktop components and a web interface share an application backend.</text>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="21" fill="#f0f6fc" text-anchor="middle">
+<rect x="26" y="96" width="300" height="82" rx="12" fill="#161b22" stroke="#58a6ff"/><text x="176" y="145">Rust desktop agent</text>
+<rect x="26" y="210" width="300" height="82" rx="12" fill="#161b22" stroke="#58a6ff"/><text x="176" y="259">Blazor web interface</text>
+<rect x="450" y="143" width="330" height="100" rx="12" fill="#161b22" stroke="#58a6ff"/><text x="615" y="186">ASP.NET Core</text><text x="615" y="214">endpoints</text>
+<rect x="900" y="143" width="274" height="100" rx="12" fill="#161b22" stroke="#58a6ff"/><text x="1037" y="201">PostgreSQL</text>
+</g>
+<g stroke="#8b949e" stroke-width="2" fill="none" marker-start="url(#arrow)" marker-end="url(#arrow)"><path d="M338 137 H390 V169 H438"/><path d="M338 251 H390 V218 H438"/><path d="M792 193 H888"/></g>
+</svg>

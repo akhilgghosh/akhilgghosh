@@ -4,13 +4,7 @@ An Autodesk Inventor add-in for generating engineering drawings from CAD models.
 
 ## Workflow
 
-```mermaid
-flowchart LR
-    A[CAD model] --> B[Drawing views]
-    B --> C[Scale and layout]
-    C --> D[Dimensions and annotations]
-    D --> E[PDF export]
-```
+![CAD drawing workflow: model, drawing views, scale and layout, dimensions and annotations, PDF export](../assets/cad-drawing-workflow.svg)
 
 ## Capabilities
 
