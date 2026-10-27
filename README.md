@@ -8,7 +8,6 @@ I build CAD automation, desktop tools, and web applications, with a focus on sim
 | --- | --- | --- |
 | [CAD Drawing Automation](https://github.com/akhilgghosh/akhilgghosh/blob/main/project-notes/cad-drawing-automation.md) | Generates Inventor drawing views, dimensions, and PDF exports. | VB.NET · .NET · Inventor API |
 | [Web Platform & Desktop Agent](https://github.com/akhilgghosh/akhilgghosh/blob/main/project-notes/web-platform-and-desktop-agent.md) | Connects a Blazor web interface, PostgreSQL data, and Rust desktop-agent components. | C# · Blazor · PostgreSQL · Rust |
-| [AI Voice & Subtitle Editor](https://github.com/akhilgghosh/akhilgghosh/blob/main/project-notes/ai-voice-and-subtitle-editor.md) | Generates narration, edits subtitle segments, and exports WAV audio and SRT subtitles. | TypeScript · React · Gemini API |
 
 Each project links to a public overview with a workflow diagram and implementation notes.
 
@@ -32,12 +31,11 @@ Each project links to a public overview with a workflow diagram and implementati
 **Platforms & tools**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Autodesk Inventor](https://img.shields.io/badge/Autodesk%20Inventor-B36B00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## Connect
 
-Interested in CAD automation, engineering software, or AI tools? [Connect with me on LinkedIn](https://in.linkedin.com/in/akhilgghosh).
+Interested in CAD automation or engineering software? [Connect with me on LinkedIn](https://in.linkedin.com/in/akhilgghosh).
 
 [Explore my GitHub repositories](https://github.com/akhilgghosh?tab=repositories)
