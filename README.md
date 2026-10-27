@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Akhil G Ghosh 👋
+
+Welcome to my GitHub profile.
+
+[Explore my repositories](https://github.com/akhilgghosh?tab=repositories)
 
 <!--
-**akhilgghosh/akhilgghosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personalize this profile by adding the sections below when ready.
 
-Here are some ideas to get you started:
+## Tech stack
+Add the languages, frameworks, and tools you use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Current projects
+Add the projects you want to feature, with descriptions and links.
+
+## Connect
+Add your LinkedIn profile link here.
 -->
